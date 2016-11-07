@@ -244,4 +244,4 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-ConsoleApplication8\nytest.cs
+nytest.cs
